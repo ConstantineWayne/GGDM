@@ -7,7 +7,7 @@
 - CUDA 11.4
 
 ### Datasets
-Change the CREMA-D dataset path of ''av_dataset'' file in line 23-27. You can download the dataset through the following url: [CREMA-D](https://github.com/CheyneyComputerScience/CREMA-D)
+Change the KinesticSound dataset path of ''KS_dataset'' file  in ''dataset'' folder. You can download the dataset through the following url: [KinesticSound]([https://github.com/CheyneyComputerScience/CREMA-D](https://github.com/cvdfoundation/kinetics-dataset))
 
 ### Training
 In order to train the model, you can use  
