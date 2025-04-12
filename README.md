@@ -1,6 +1,6 @@
 # GGDM
 ## Method Introduction
-![photo](pip.png "Example Image")
+![photo](pipline.png "Example Image")
 
 An illustration of our proposed method--GGDM, the training pipeline is shown in the left part, in which we use the stochastic gradient descent to update the parameters of each modality encoder. While our gradient modulation module lies in the right part, through our gradient modulation, we can force the gradient polyhedron to shrink to the suitable volume to mitigate the imbalanced multimodal learning.
 
