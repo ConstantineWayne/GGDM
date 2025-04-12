@@ -1,5 +1,13 @@
 # GGDM
+## Method Introduction
+![photo](pip.png "Example Image")
 
+An illustration of our proposed method--GGDM, the training pipeline is shown in the left part, in which we use the stochastic gradient descent to update the parameters of each modality encoder. While our gradient modulation module lies in the right part, through our gradient modulation, we can force the gradient polyhedron to shrink to the suitable volume to mitigate the imbalanced multimodal learning.
+
+## Experimental Results
+![photo2](table.png "Results")
+
+we made comparison with the recent counterparts on CREMA-D, AVE and KinesticSound multimodal datasets.
 ## Usage
 ### Prerequisites
 - Python 3.8
